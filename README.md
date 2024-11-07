@@ -4,5 +4,9 @@
 
 ![](https://media1.tenor.com/m/DcuzaULdSQsAAAAC/focalette-kelly-kapoor.gif)
 
+Meu Alura site
 
+Code: https://vscode.dev/?vscode-lang=pt-br
+
+site: file:///C:/Users/GABRIELARTURDONNANGE/Desktop/FILOFLIX/index.html
 
