@@ -10,3 +10,8 @@ Code: https://vscode.dev/?vscode-lang=pt-br
 
 site: file:///C:/Users/GABRIELARTURDONNANGE/Desktop/FILOFLIX/index.html
 
+Rura (game em fluxo-grama)
+linha de comando :https://vscode.dev/?vscode-lang=pt-br
+projeto: file:///C:/Users/isaqu/OneDrive/Desktop/Jogo%20Divertido%20Funny/index.html
+
+
